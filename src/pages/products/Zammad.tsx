@@ -128,7 +128,7 @@ const Zammad: React.FC = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1586776911425-283c74373469?q=80&w=2070&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop"
                 alt="Soporte Omnicanal con Zammad"
                 className="rounded-2xl shadow-2xl"
               />

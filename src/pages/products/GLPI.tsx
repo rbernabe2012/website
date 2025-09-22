@@ -129,7 +129,7 @@ const GLPI: React.FC = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=2070&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=2069&auto=format&fit=crop"
                 alt="Gestión de Activos GLPI"
                 className="rounded-2xl shadow-2xl"
               />

@@ -129,7 +129,7 @@ const AIBots: React.FC = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1526178613552-2b45c6c302f0?q=80&w=2070&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1620712943543-2858200e9485?q=80&w=1974&auto=format&fit=crop"
                 alt="Bots con Inteligencia Artificial"
                 className="rounded-2xl shadow-2xl"
               />

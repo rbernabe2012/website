@@ -129,7 +129,7 @@ const VoiceBots: React.FC = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1589923188900-85dae523342d?q=80&w=2070&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1614064548237-02f0fda37583?q=80&w=1974&auto=format&fit=crop"
                 alt="Bots de Voz con IA"
                 className="rounded-2xl shadow-2xl"
               />

@@ -129,8 +129,8 @@ const Zabbix: React.FC = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop"
-                alt="Zabbix Monitoreo"
+                src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2106&auto=format&fit=crop"
+                alt="Zabbix Monitoreo Dashboard"
                 className="rounded-2xl shadow-2xl"
               />
               <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-xl shadow-lg">

@@ -69,21 +69,25 @@ const Home: React.FC = () => {
 
   return (
     <div className="min-h-screen">
-      {/* Hero Section - Reverted to light theme */}
-      <section className="py-20 lg:py-32 bg-gradient-to-br from-primary-50 via-white to-gray-50">
+      {/* Hero Section */}
+      <section 
+        className="relative py-20 lg:py-32 bg-cover bg-center" 
+        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?q=80&w=2070&auto=format&fit=crop')" }}
+      >
+        <div className="absolute inset-0 bg-gray-900/80 backdrop-blur-sm"></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.div
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-gray-900">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">
               Transformamos tu
-              <span className="block text-primary-600 mt-2">
+              <span className="block text-primary-400 mt-2">
                 Empresa con Tecnología
               </span>
             </h1>
-            <p className="text-xl text-gray-600 mt-6 leading-relaxed max-w-3xl mx-auto">
+            <p className="text-xl text-gray-300 mt-6 leading-relaxed max-w-3xl mx-auto">
               Implementamos soluciones tecnológicas avanzadas que optimizan tus procesos, 
               mejoran la eficiencia y potencian el crecimiento de tu negocio.
             </p>
@@ -96,7 +100,7 @@ const Home: React.FC = () => {
               </Link>
               <Link
                 to="/nosotros"
-                className="border-2 border-primary-500 text-primary-600 px-8 py-4 rounded-lg font-semibold hover:bg-primary-500 hover:text-white transition-all duration-300 text-center"
+                className="border-2 border-primary-400 text-primary-400 px-8 py-4 rounded-lg font-semibold hover:bg-primary-400 hover:text-white transition-all duration-300 text-center"
               >
                 Conocer Más
               </Link>
