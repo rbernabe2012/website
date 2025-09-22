@@ -72,7 +72,7 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <section 
         className="relative py-20 lg:py-32 bg-cover bg-center" 
-        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?q=80&w=2070&auto=format&fit=crop')" }}
+        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop')" }}
       >
         <div className="absolute inset-0 bg-gray-900/80 backdrop-blur-sm"></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

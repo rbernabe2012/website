@@ -128,7 +128,7 @@ const Otobo: React.FC = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1573497491208-6b1acb260507?q=80&w=2070&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070&auto=format&fit=crop"
                 alt="Mesa de Ayuda Otobo"
                 className="rounded-2xl shadow-2xl"
               />

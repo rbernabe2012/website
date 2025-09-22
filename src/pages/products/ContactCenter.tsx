@@ -128,7 +128,7 @@ const ContactCenter: React.FC = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1587560699334-cc426240a24f?q=80&w=2070&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1964&auto=format&fit=crop"
                 alt="Solución de Contact Center"
                 className="rounded-2xl shadow-2xl"
               />
